@@ -1,0 +1,3 @@
+function myname() {
+    return name 
+}
