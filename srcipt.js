@@ -1,8 +1,8 @@
 function myname() {
     return name 
 }
-
-age = 24
+age = 27
 function above18(){
     return age>18
 }
+hello =2
