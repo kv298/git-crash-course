@@ -14,7 +14,7 @@ function newfn(){
 }
 
 function newfnA(){
-    console.log("AAAAAAA")
+    console.log("2222")
 
-    console.log("neww fn AAAAAAA  w")
+    console.log("neww fn 22222  w")
 }
