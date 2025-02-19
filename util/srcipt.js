@@ -18,3 +18,9 @@ function newfnA(){
 
     console.log("neww fn 22222  w")
 }
+
+function newfnA(){
+    console.log("333q")
+
+    console.log("neww fn 3333333  w")
+}
