@@ -12,3 +12,9 @@ function newfn(){
 
     console.log("neww  w")
 }
+
+function newfnA(){
+    console.log("AAAAAAA")
+
+    console.log("neww fn AAAAAAA  w")
+}
