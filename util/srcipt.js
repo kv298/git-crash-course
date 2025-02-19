@@ -6,3 +6,7 @@ function above18(){
     return age>18
 }
 hello =7 
+
+function newfn(){
+    console.log("ffff")
+}
