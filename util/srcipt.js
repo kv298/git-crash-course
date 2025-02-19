@@ -9,4 +9,6 @@ hello =7
 
 function newfn(){
     console.log("ffff")
+
+    console.log("neww  w")
 }
